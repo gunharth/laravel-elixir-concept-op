@@ -1,12 +1,10 @@
 # Laravel Elixir One-Page Starter Template
 
-based on the 'Concept' template by http://gettemplates.co
+"Even developers need some better looking starting point that go beyond the standard bootstrap look... ""
 
-Even developers need some better looking starting point that go beyond the standard bootstrap look... 
-
-Preview: http://gunharth.io/laravel-elixir-concept-op/
-
-Preview of the original thanks to freehtml5.co: https://freehtml5.co/demos/concept
+based on the 'Concept' template by http://gettemplates.co  
+Preview: http://gunharth.io/laravel-elixir-concept-op  
+Preview of the original: http://gettemplates.co/preview/?item=concept-free-website-template-using-bootstrap-framework-multi-purpose
 
 ## Ammendments
 - opinionated cleaner html using sections
@@ -14,10 +12,11 @@ Preview of the original thanks to freehtml5.co: https://freehtml5.co/demos/conce
 - added waypoints navigation highlighting while scrolling
 - replaced stellar parallax with skrollr (smoother!)
 
-## To use
+## To use end edit
 - clone or download repo
 - cd into dir
 - run yarn (or npm install)
+- make your style or js changes in resources/assets
 - run gulp to publish all assets to the public folder
 - check out the Laravel Elixier docs https://laravel.com/docs/5.3/elixir
 
