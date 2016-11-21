@@ -2,9 +2,11 @@
 
 based on the 'Concept' template by http://gettemplates.co
 
-Preview of the original thanks to https://freehtml5.co/demos/concept
+Even developers need some better looking starting point that go beyond the standard bootstrap look... 
 
-I felt like doing this over and over again - even developers need some better looking starting points ;-) that go beyond the standard bootstrap look... so here we go:
+Preview: http://gunharth.io/laravel-elixir-concept-op/
+
+Preview of the original thanks to freehtml5.co: https://freehtml5.co/demos/concept
 
 ## Ammendments
 - opinionated cleaner html using sections
@@ -17,10 +19,11 @@ I felt like doing this over and over again - even developers need some better lo
 - cd into dir
 - run yarn (or npm install)
 - run gulp to publish all assets to the public folder
+- check out the Laravel Elixier docs https://laravel.com/docs/5.3/elixir
 
 I highly recommend [Valet](https://laravel.com/docs/5.3/valet) for develoment on a Mac.
 
 ## To use with Laravel
-- merge all into the Laraval structure - move public index.html into your blade views and you're ready to go.
+- merge all into the Laraval structure and move public index.html into your blade views.
 
 The template is released under the Creative Commons Attribution 3.0 License https://creativecommons.org/licenses/by/3.0
