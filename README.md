@@ -22,3 +22,5 @@ I highly recommend [Valet](https://laravel.com/docs/5.3/valet) for develoment on
 
 ## To use with Laravel
 - merge all into the Laraval structure - move public index.html into your blade views and you're ready to go.
+
+The template is released under the Creative Commons Attribution 3.0 License [https://creativecommons.org/licenses/by/3.0]
