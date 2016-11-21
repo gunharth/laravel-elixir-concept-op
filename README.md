@@ -1,10 +1,9 @@
 # Laravel Elixir One-Page Starter Template
 
 "Even developers need some better looking starting point that go beyond the standard bootstrap look... ""
-
-based on the 'Concept' template by http://gettemplates.co  
+ 
 Preview: http://gunharth.io/laravel-elixir-concept-op  
-Preview of the original: http://gettemplates.co/preview/?item=concept-free-website-template-using-bootstrap-framework-multi-purpose
+Preview of the original by [gettemplates.co](http://gettemplates.co/preview/?item=concept-free-website-template-using-bootstrap-framework-multi-purpose)
 
 ## Ammendments
 - opinionated cleaner html using sections
