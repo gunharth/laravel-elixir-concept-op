@@ -1,6 +1,7 @@
 # Laravel Elixir One-Page Starter Template
 
 based on the 'Concept' template by [http://gettemplates.co]
+
 Preview of the original thanks to [https://freehtml5.co/demos/concept]
 
 I felt like doing this over and over again - even developers need some better looking starting points ;-) that go beyond the standard bootstrap look... so here we go:
