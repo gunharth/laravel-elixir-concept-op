@@ -8,15 +8,16 @@ Preview of the original: http://gettemplates.co/preview/?item=concept-free-websi
 
 ## Ammendments
 - opinionated cleaner html using sections
-- updates to javasript libraries
+- updates to javascript libraries
 - added waypoints navigation highlighting while scrolling
 - replaced stellar parallax with skrollr (smoother!)
+- third party libraries get combined into vendor.css and vendor.js
 
 ## To use end edit
 - clone or download repo
 - cd into dir
 - run yarn (or npm install)
-- make your style or js changes in resources/assets
+- make your sass or js changes in resources/assets
 - run gulp to publish all assets to the public folder
 - check out the Laravel Elixier docs https://laravel.com/docs/5.3/elixir
 
