@@ -1,8 +1,8 @@
 # Laravel Elixir One-Page Starter Template
 
-based on the 'Concept' template by [http://gettemplates.co]
+based on the 'Concept' template by http://gettemplates.co
 
-Preview of the original thanks to [https://freehtml5.co/demos/concept]
+Preview of the original thanks to https://freehtml5.co/demos/concept
 
 I felt like doing this over and over again - even developers need some better looking starting points ;-) that go beyond the standard bootstrap look... so here we go:
 
@@ -23,4 +23,4 @@ I highly recommend [Valet](https://laravel.com/docs/5.3/valet) for develoment on
 ## To use with Laravel
 - merge all into the Laraval structure - move public index.html into your blade views and you're ready to go.
 
-The template is released under the Creative Commons Attribution 3.0 License [https://creativecommons.org/licenses/by/3.0]
+The template is released under the Creative Commons Attribution 3.0 License https://creativecommons.org/licenses/by/3.0
