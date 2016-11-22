@@ -1,6 +1,6 @@
 # Laravel Elixir One-Page Starter Template
 
-"Even developers need some better looking starting point that go beyond the standard bootstrap look... "
+"A better looking starting point that goes beyond the standard bootstrap 3 look..."
  
 Preview: http://gunharth.io/laravel-elixir-concept-op  
 Preview of the original by [gettemplates.co](http://gettemplates.co/preview/?item=concept-free-website-template-using-bootstrap-framework-multi-purpose)
