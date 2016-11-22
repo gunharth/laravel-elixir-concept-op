@@ -1,18 +1,18 @@
 # Laravel Elixir One-Page Starter Template
 
-"Even developers need some better looking starting point that go beyond the standard bootstrap look... ""
+"Even developers need some better looking starting point that go beyond the standard bootstrap look... "
  
 Preview: http://gunharth.io/laravel-elixir-concept-op  
 Preview of the original by [gettemplates.co](http://gettemplates.co/preview/?item=concept-free-website-template-using-bootstrap-framework-multi-purpose)
 
 ## Ammendments
 - opinionated cleaner html using sections
-- updates to javascript libraries
-- added waypoints navigation highlighting while scrolling
+- updated JavaScript libraries
+- added waypoints.js navigation highlighting while scrolling
 - replaced stellar parallax with skrollr (smoother!)
 - third party libraries get combined into vendor.css and vendor.js
 
-## To use end edit
+## To use and edit
 - clone or download repo
 - cd into dir
 - run yarn (or npm install)
@@ -20,9 +20,9 @@ Preview of the original by [gettemplates.co](http://gettemplates.co/preview/?ite
 - run gulp to publish all assets to the public folder
 - check out the Laravel Elixier docs https://laravel.com/docs/5.3/elixir
 
-I highly recommend [Valet](https://laravel.com/docs/5.3/valet) for develoment on a Mac.
+If your on a Mac, I highly recommend [Valet](https://laravel.com/docs/5.3/valet) for develoment.
 
 ## To use with Laravel
-- merge all into the Laraval structure and move public index.html into your blade views.
+- merge all assets into the Laraval structure and move public/index.html into your blade views.
 
 The template is released under the Creative Commons Attribution 3.0 License https://creativecommons.org/licenses/by/3.0
